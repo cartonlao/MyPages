@@ -1,7 +1,13 @@
-# README FILE
+# Main Readme Landing Page
 
-This is my first page.
+This is my first attempt to use Pages for documentation.  See if I like it.
 
-## Section 2
+## Trial Details
 
-This is second section of the readme.
+Going to put 2 sets of documentations:
+
+* react_todo_custom
+* [react_todo_expo](./react_todo_expo/README)
+
+We'll see how this goes.
+
